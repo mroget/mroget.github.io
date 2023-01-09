@@ -26,3 +26,4 @@ Previously, I completed a bachelor and master degree in computer science from <a
 
 My current research are focused on trying to tackle several problematics of distributed quantum computing (algorithms, implementation, quantum noise, ...) using quantum walk and quantum cellular automata.
 
+ 
