@@ -24,4 +24,4 @@ I'm currently studying quantum walk, distributed quantum computing and quantum m
 
 Previously, I completed a bachelor and master degree in computer science from <a href='http://www.ens-lyon.fr/en/'>ENS Lyon</a> and a bachelor degree in mathematics from <a href='https://www.univ-lyon1.fr/en'>Université Lyon 1</a>.
 
-My current research are focused on trying to tackle several problematics of distributed quantum computing (algorithms, implementation, quantum noise, ...) using quantum walk and quantum cellular automata. 
+My current research are focused on trying to tackle several problematics of distributed quantum computing (algorithms, implementation, quantum noise, ...) using quantum walk and quantum cellular automata.
