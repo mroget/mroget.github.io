@@ -14,7 +14,7 @@
     - name: Duration
       value: 18h (9x2h)
     - name: Content
-      value: Second algorithmic for the undergraduated cursus in Aix-Marseille University.
+      value: Second algorithmic class for the undergraduated cursus in Aix-Marseille University. Includes graph algorithmic and dynamic programming.
 
 - title: Quantum computation
   type: map
@@ -32,7 +32,7 @@
     - name: Duration
       value: 30h (15x2h)
     - name: Content
-      value: Second algorithmic for the undergraduated cursus in Aix-Marseille University.
+      value: Introduction to quantum computing.
 
 - title: Initiation to programmation
   type: map
