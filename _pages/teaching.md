@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: teaching
 permalink: /teaching/
-title: teaching
-description: Courses I taught. TBA
+title: Teaching
 nav: true
 nav_order: 5
 ---

@@ -1,0 +1,137 @@
+- title: <a href='https://gdrteqcolloq2023.sciencesconf.org/'>First colloquium GdR TeQ</a>
+  type: map
+  contents:
+    - name: Place
+      value: Institut de Botanique, Montpelier, France
+    - name: Date
+      value: November 2023
+    - name: Modality
+      value: Poster presentation
+    - name: Description
+      value: Presentation of my <a href='https://arxiv.org/abs/2310.10451'>work</a> on distributed search with Quantum Walks.
+
+- title: <a href='https://quantum-innovation.riken.jp/'>Quantum Innovation 2023</a>
+  type: map
+  contents:
+    - name: Place
+      value: Tokyo Convention Hall, Tokyo, Japan
+    - name: Date
+      value: November 2023
+    - name: Modality
+      value: Poster presentation
+    - name: Description
+      value: Presentation of my <a href='https://arxiv.org/abs/2310.10451'>work</a> on distributed search with Quantum Walks.
+
+- title: <a href='https://sites.google.com/view/qsqw2023/home'>10th International Workshop of Quantum Simulation and Quantum Walks</a>
+  type: map
+  contents:
+    - name: Place
+      value: Tsukuba International Congress Center, Tsukuba, Japan
+    - name: Date
+      value: November 2023
+    - name: Modality
+      value: Oral presentation
+    - name: Description
+      value: Presentation of my <a href='https://arxiv.org/abs/2310.10451'>work</a> on distributed search with Quantum Walks.
+
+- title: <a href='https://conferences.cirm-math.fr/3130.html'>Journées Informatique Quantique 2023</a>
+  type: map
+  contents:
+    - name: Place
+      value: CIRM, Marseille, France
+    - name: Date
+      value: October 2023
+    - name: Modality
+      value: Oral presentation
+    - name: Description
+      value: Presentation of my <a href='https://arxiv.org/abs/2310.10451'>work</a> on distributed search with Quantum Walks.
+
+- title: <a href='https://ecoles-cea-edf-inria.fr/schools/ecole-informatique-2023/'>Ecole d’été d’informatique 2023</a>
+  type: map
+  contents:
+    - name: Place
+      value: Paris-Saclay, France
+    - name: Date
+      value: July 2023
+    - name: Modality
+      value: Poster presentation
+    - name: Description
+      value: Presentation of my <a href='https://arxiv.org/abs/2201.12937'>work</a> on spatial search with multiple marked vertices. Content of this school includes various topics related to quantum computing.
+
+- title: <a href='https://www.fz-juelich.de/en/ias/jsc/systems/quantum-computing/juniq-facility/training/spring-school-2023'>Spring School on Quantum Information Processing</a>
+  type: map
+  contents:
+    - name: Place
+      value: Jülich, Germany
+    - name: Date
+      value: March 2023
+    - name: Modality
+      value: Poster presentation
+    - name: Description
+      value: Presentation of my <a href='https://arxiv.org/abs/2201.12937'>work</a> on spatial search with multiple marked vertices. Content of this school includes several quantum computing paradigms like quantum annealer and qubo optimization.
+
+- title: <a href='https://qi.lip6.fr/jiq22/'>Journées Informatique Quantique 2022</a>
+  type: map
+  contents:
+    - name: Place
+      value: Paris, France
+    - name: Date
+      value: November 2022
+    - name: Modality
+      value: Oral presentation
+    - name: Description
+      value: Presentation of my <a href='https://arxiv.org/abs/2201.12937'>work</a> on spatial search with multiple marked vertices.
+
+
+- title: <a href='https://www.auai.org/uai2022/'>UAI 2022</a>
+  type: map
+  contents:
+    - name: Place
+      value: Eindhoven, Netherlands
+    - name: Date
+      value: August 2022
+    - name: Modality
+      value: Oral presentation
+    - name: Description
+      value: Presentation of my <a href='https://arxiv.org/abs/2106.02496'>work</a> on quantum perceptron models.
+
+- title: <a href='https://caprfiap2022.sciencesconf.org/'>CAp 2022</a>
+  type: map
+  contents:
+    - name: Place
+      value: Vannes, France
+    - name: Date
+      value: July 2022
+    - name: Modality
+      value: Oral presentation
+    - name: Description
+      value: Presentation of my <a href='https://arxiv.org/abs/2106.02496'>work</a> on quantum perceptron models.
+
+- title: QIP 2022
+  type: map
+  contents:
+    - name: Place
+      value: Passadena, California, US
+    - name: Date
+      value: March 2022
+    - name: Modality
+      value: Poster presentation
+    - name: Description
+      value: Presentation of my <a href='https://arxiv.org/abs/2106.02496'>work</a> on quantum perceptron models.
+
+
+- title: <a href='https://conferences.cirm-math.fr/2161.html'>9th International Workshop of Quantum Simulation and Quantum Walks</a>
+  type: map
+  contents:
+    - name: Place
+      value: CIRM, Marseille, France
+    - name: Date
+      value: January 2020
+    - name: Modality
+      value: Poster presentation
+    - name: Description
+      value: Presentation of my <a href='https://arxiv.org/abs/2009.10408'>work</a> on quantum control using quantum walks with memory.
+
+
+
+

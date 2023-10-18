@@ -1,0 +1,53 @@
+- title: Algorithmic 2
+  type: map
+  contents:
+    - name: Establishement
+      value: <a href='https://www.univ-amu.fr/en'>Aix-Marseille University</a>
+    - name: Location
+      value: Marseille, France
+    - name: Academic period
+      value: 2023-2024
+    - name: Targeted public
+      value: Third year undergraduated students in computer sciences
+    - name: Modality
+      value: Practical classes in java.
+    - name: Duration
+      value: 18h (9x2h)
+    - name: Content
+      value: Second algorithmic for the undergraduated cursus in Aix-Marseille University.
+
+- title: Quantum computation
+  type: map
+  contents:
+    - name: Establishement
+      value: <a href='https://www.univ-amu.fr/en'>Aix-Marseille University</a>
+    - name: Location
+      value: Marseille, France
+    - name: Academic period
+      value: 2022-2023
+    - name: Targeted public
+      value: First year Master students in computer sciences
+    - name: Modality
+      value: Lecture, exercises class and practical classes.
+    - name: Duration
+      value: 30h (15x2h)
+    - name: Content
+      value: Second algorithmic for the undergraduated cursus in Aix-Marseille University.
+
+- title: Initiation to programmation
+  type: map
+  contents:
+    - name: Establishement
+      value: <a href='https://www.univ-amu.fr/en'>Aix-Marseille University</a>
+    - name: Location
+      value: Marseille, France
+    - name: Academic period
+      value: 2022-2023
+    - name: Targeted public
+      value: First year undergraduated students in computer sciences
+    - name: Modality
+      value: Practical classes in Python.
+    - name: Duration
+      value: 30h (15x2h)
+    - name: Content
+      value: First programmation class for Aix-Marseille University students.
