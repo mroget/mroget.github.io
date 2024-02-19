@@ -150,6 +150,20 @@
             <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
             {%- endif %}
           {%- endif %}
+          {%- if entry.doc %}
+            {% if entry.doc contains '://' -%}
+            <a href="{{ entry.doc }}" class="btn btn-sm z-depth-0" role="button">DOCUMENTATION</a>
+            {%- else -%}
+            <a href="{{ entry.doc | prepend: '/assets/doc/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">DOCUMENTATION</a>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.pypi %}
+            {% if entry.pypi contains '://' -%}
+            <a href="{{ entry.pypi }}" class="btn btn-sm z-depth-0" role="button">PYPI</a>
+            {%- else -%}
+            <a href="{{ entry.pypi | prepend: '/assets/pypi/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PYPI</a>
+            {%- endif %}
+          {%- endif %}
           {%- if entry.supp %}
             {% if entry.supp contains '://' -%}
             <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
