@@ -40,7 +40,7 @@
 - title: <a href='https://sites.google.com/view/qsqw2023/home'>10th International Workshop of Quantum Simulation and Quantum Walks</a>
   type: map
   year: 2023
-  slides: presentation_QWGraph
+  slides: presentation_QWGraph.pdf
   contents:
     - name: Place
       value: Tsukuba International Congress Center, Tsukuba, Japan
@@ -54,7 +54,7 @@
 - title: <a href='https://conferences.cirm-math.fr/3130.html'>Journées Informatique Quantique 2023</a>
   type: map
   year: 2023
-  slides: presentation_QWGraph
+  slides: presentation_QWGraph.pdf
   contents:
     - name: Place
       value: CIRM, Marseille, France
@@ -91,7 +91,7 @@
 - title: <a href='https://qi.lip6.fr/jiq22/'>Journées Informatique Quantique 2022</a>
   type: map
   year: 2022
-  slides: presentation_QWSearch
+  slides: presentation_QWSearch.pdf
   contents:
     - name: Place
       value: Paris, France
@@ -106,7 +106,7 @@
 - title: <a href='https://www.auai.org/uai2022/'>UAI 2022</a>
   type: map
   year: 2022
-  slides: presentation_uai
+  slides: presentation_uai.pdf
   contents:
     - name: Place
       value: Eindhoven, Netherlands
@@ -120,7 +120,7 @@
 - title: <a href='https://caprfiap2022.sciencesconf.org/'>CAp 2022</a>
   type: map
   year: 2022
-  slides: presentation_uai
+  slides: presentation_uai.pdf
   contents:
     - name: Place
       value: Vannes, France
