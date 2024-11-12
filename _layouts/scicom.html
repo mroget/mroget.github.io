@@ -12,8 +12,8 @@ layout: default
           <article>
             <div class="teaching">
               {%- for y in page.years %}
+                <h2>{{y}}</h2><hr>
                 {% for entry in site.data.scicom %}
-                  <h2>{{y}}</h2>
                   {% if entry.year == y %}
                     <div class="card mt-3 p-3">
                       <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
