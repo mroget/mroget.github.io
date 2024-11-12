@@ -17,26 +17,30 @@ layout: default
                   {% if entry.year == y %}
                     <div class="card mt-3 p-3">
                       <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-                      <div>
-                      {% if entry.type == "list" %}
-                        {% include cv/list.html %}
-                      {% elsif entry.type == "map" %}
-                        {% include cv/map.html %}
-                      {% elsif entry.type == "nested_list" %}
-                        {% include cv/nested_list.html %}
-                      {% elsif entry.type == "time_table" %}
-                       {% include cv/time_table.html %}
-                      {% else %}
-                        {{ entry.contents }}
-                      {% endif %}
-                      </div>
-                      {%- if entry.poster %}
-                        {% if entry.poster contains '://' -%}
-                        <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
-                        {%- else -%}
-                        <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+                      <div style="width: 100%; overflow: hidden;">
+                        <div style="width: 600px; float: left;">
+                        {% if entry.type == "list" %}
+                          {% include cv/list.html %}
+                        {% elsif entry.type == "map" %}
+                          {% include cv/map.html %}
+                        {% elsif entry.type == "nested_list" %}
+                          {% include cv/nested_list.html %}
+                        {% elsif entry.type == "time_table" %}
+                         {% include cv/time_table.html %}
+                        {% else %}
+                          {{ entry.contents }}
+                        {% endif %}
+                        </div>
+                        <div style="margin-left: 620px;">
+                        {%- if entry.poster %}
+                          {% if entry.poster contains '://' -%}
+                          <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+                          {%- else -%}
+                          <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+                          {%- endif %}
                         {%- endif %}
-                      {%- endif %}
+                        </div>
+                      </div>
                     </div>
                   {% endif %}
                 {% endfor %}
