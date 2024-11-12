@@ -1,3 +1,40 @@
+- title: Complexity
+  type: map
+  contents:
+    - name: Establishement
+      value: <a href='https://www.univ-amu.fr/en'>Aix-Marseille University</a>
+    - name: Location
+      value: Marseille, France
+    - name: Academic period
+      value: 2024-2025
+    - name: Targeted public
+      value: First year master students in computer sciences
+    - name: Modality
+      value: Exercise and practical classes.
+    - name: Duration
+      value: 18h = Practical (TP) 9h and Exercises (TD) 9h
+    - name: Content
+      value: Master class on complexity. Includes notions such as complexity classes, reduction, completness, etc.
+
+- title: Algorithmic 1
+  type: map
+  contents:
+    - name: Establishement
+      value: <a href='https://www.univ-amu.fr/en'>Aix-Marseille University</a>
+    - name: Location
+      value: Marseille, France
+    - name: Academic period
+      value: 2023-2024
+    - name: Targeted public
+      value: Second year undergraduated students in computer sciences
+    - name: Modality
+      value: Exercise and practical classes in java.
+    - name: Duration
+      value: 42h = Practical (TP) 24h and Exercises (TD) 18h
+    - name: Content
+      value: First algorithmic course for the undergraduated cursus in Aix-Marseille University. Includes basic programming paradigmes.
+
+
 - title: Algorithmic 2
   type: map
   contents:
