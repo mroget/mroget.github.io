@@ -1,5 +1,6 @@
 - title: <a href='https://gdrteqcolloq2023.sciencesconf.org/'>First colloquium GdR TeQ</a>
   type: map
+  year: 2023
   contents:
     - name: Place
       value: Institut de Botanique, Montpelier, France
@@ -12,6 +13,7 @@
 
 - title: <a href='https://quantum-innovation.riken.jp/'>Quantum Innovation 2023</a>
   type: map
+  year: 2023
   contents:
     - name: Place
       value: Tokyo Convention Hall, Tokyo, Japan
@@ -24,6 +26,7 @@
 
 - title: <a href='https://sites.google.com/view/qsqw2023/home'>10th International Workshop of Quantum Simulation and Quantum Walks</a>
   type: map
+  year: 2023
   contents:
     - name: Place
       value: Tsukuba International Congress Center, Tsukuba, Japan
@@ -36,6 +39,7 @@
 
 - title: <a href='https://conferences.cirm-math.fr/3130.html'>Journées Informatique Quantique 2023</a>
   type: map
+  year: 2023
   contents:
     - name: Place
       value: CIRM, Marseille, France
@@ -48,6 +52,7 @@
 
 - title: <a href='https://ecoles-cea-edf-inria.fr/schools/ecole-informatique-2023/'>Ecole d’été d’informatique 2023</a>
   type: map
+  year: 2023
   contents:
     - name: Place
       value: Paris-Saclay, France
@@ -56,6 +61,7 @@
 
 - title: <a href='https://www.fz-juelich.de/en/ias/jsc/systems/quantum-computing/juniq-facility/training/spring-school-2023'>Spring School on Quantum Information Processing</a>
   type: map
+  year: 2023
   contents:
     - name: Place
       value: Jülich, Germany
@@ -68,6 +74,7 @@
 
 - title: <a href='https://qi.lip6.fr/jiq22/'>Journées Informatique Quantique 2022</a>
   type: map
+  year: 2022
   contents:
     - name: Place
       value: Paris, France
@@ -81,6 +88,7 @@
 
 - title: <a href='https://www.auai.org/uai2022/'>UAI 2022</a>
   type: map
+  year: 2022
   contents:
     - name: Place
       value: Eindhoven, Netherlands
@@ -93,6 +101,7 @@
 
 - title: <a href='https://caprfiap2022.sciencesconf.org/'>CAp 2022</a>
   type: map
+  year: 2022
   contents:
     - name: Place
       value: Vannes, France
@@ -105,6 +114,7 @@
 
 - title: QIP 2022
   type: map
+  year: 2022
   contents:
     - name: Place
       value: Passadena, California, US
@@ -118,6 +128,7 @@
 
 - title: <a href='https://conferences.cirm-math.fr/2161.html'>9th International Workshop of Quantum Simulation and Quantum Walks</a>
   type: map
+  year: 2020
   contents:
     - name: Place
       value: CIRM, Marseille, France
