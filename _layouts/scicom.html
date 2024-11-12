@@ -39,6 +39,13 @@ layout: default
                           <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="button" role="button">Poster</a>
                           {%- endif %}
                         {%- endif %}
+                        {%- if entry.slides %}
+                          {% if entry.slides contains '://' -%}
+                          <a href="{{ entry.slides }}" class="button" role="button">Slides</a>
+                          {%- else -%}
+                          <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="button" role="button">Slides</a>
+                          {%- endif %}
+                        {%- endif %}
                         </div>
                       </div>
                     </div>
