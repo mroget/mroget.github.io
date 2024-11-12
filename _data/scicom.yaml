@@ -124,13 +124,11 @@
       value: Poster presentation
     - name: Work presented
       value: <a href='https://arxiv.org/abs/2106.02496'> Quantum Perceptron Revisited, Computational-Statistical Tradeoffs </a>
-    - name: Poster
-      value: <a href='../assets/pdf/poster_qperceptron.pdf'class="btn btn-sm z-depth-0" role="button">Poster</a>
-
 
 - title: <a href='https://conferences.cirm-math.fr/2161.html'>9th International Workshop of Quantum Simulation and Quantum Walks</a>
   type: map
   year: 2020
+  poster: poster_qcontrol.pdf
   contents:
     - name: Place
       value: CIRM, Marseille, France
@@ -140,8 +138,6 @@
       value: Poster presentation
     - name: Work presented
       value: <a href='https://arxiv.org/abs/2009.10408'>Quantum control using quantum memory </a>
-    - name: Support
-      value: <a href='../assets/pdf/poster_qcontrol.pdf'class="btn btn-sm z-depth-0" role="button">Poster</a>
 
 
 
