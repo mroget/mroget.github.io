@@ -34,9 +34,9 @@ layout: default
                         <div style="margin-left: 620px;">
                         {%- if entry.poster %}
                           {% if entry.poster contains '://' -%}
-                          <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+                          <a href="{{ entry.poster }}" class="button" role="button">Poster</a>
                           {%- else -%}
-                          <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+                          <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="button" role="button">Poster</a>
                           {%- endif %}
                         {%- endif %}
                         </div>
