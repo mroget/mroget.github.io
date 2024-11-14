@@ -18,7 +18,7 @@ layout: default
                     <div class="card mt-3 p-3">
                       <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
                       <div style="width: 100%; overflow: hidden;">
-                        <div style="width: 60%; float: left;">
+                        <div style="width: 75%; float: left;">
                         {% if entry.type == "list" %}
                           {% include cv/list.html %}
                         {% elsif entry.type == "map" %}
@@ -31,7 +31,7 @@ layout: default
                           {{ entry.contents }}
                         {% endif %}
                         </div>
-                        <div style="margin-left: 5%; position: absolute; bottom: 20px;">
+                        <div style="margin-left: 80%; position: absolute; bottom: 20px;">
                         {%- if entry.poster %}
                           {% if entry.poster contains '://' -%}
                           <a href="{{ entry.poster }}" class="button" role="button">Poster</a>
