@@ -9,6 +9,18 @@
     - name: Description
       value: A two months research project in Japan with François Le Gall.
 
+
+- title: <a href='https://link.springer.com/book/10.1007/978-3-031-56943-2'>ASCAT</a> (Asian Symposium on Cellular Automata Technology)
+  type: map
+  year: 2024
+  contents:
+    - name: Place
+      value: Durgapur, West Bengal, India
+    - name: Date
+      value: February 2024
+    - name: Description
+      value: Online presentation at the ASCAT conference.
+
 - title: <a href='https://gdrteqcolloq2023.sciencesconf.org/'>First colloquium GdR TeQ</a>
   type: map
   year: 2023
