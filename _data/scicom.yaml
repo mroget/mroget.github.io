@@ -1,3 +1,16 @@
+- title: <a href='https://www.eqtc.eu/'>EQTC</a>
+  type: map
+  year: 2024
+  poster: poster_QWGraph.pdf
+  contents:
+    - name: Place
+      value: Lisbon, Portugal
+    - name: Date
+      value: November 2024
+    - name: Description
+      value: Poster presentation at EQTC.
+
+
 - title: <a href='https://international.cnrs.fr/en/actualite/lancement-des-bourses-jsps-postdoctoral-fellowships-short-term-2024/'>JSPS Summer</a>
   type: map
   year: 2024
