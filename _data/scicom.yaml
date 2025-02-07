@@ -1,3 +1,16 @@
+- title: <a href='https://www.slam.unina.it/qsqw2025/programme/'>QSQW 2025</a>
+  type: map
+  year: 2025
+  poster: poster_QWGraph.pdf
+  contents:
+    - name: Place
+      value: Naples, Italy
+    - name: Date
+      value: January 2025
+    - name: Description
+      value: Poster presentation at QSQW 2025.
+
+
 - title: <a href='https://www.eqtc.eu/'>EQTC</a>
   type: map
   year: 2024
