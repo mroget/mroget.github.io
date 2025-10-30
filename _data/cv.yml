@@ -27,19 +27,27 @@
       institution: Université Lyon 1, France
       year: 2019
 
-- title: Internships
+- title: Activities
   type: time_table
   contents:
+    - title: Postdoc:&nbsp; Quantum walks for protein sciences
+      institution: <a href='https://www.univ-reunion.fr/'>Université de la Réunion</a> & <a href='https://quisa.tech/'>QUISA</a>
+      year: 2025-2027
+
+    - title: PhD:&nbsp; Quantum walks:&nbsp; from grids to networks
+      institution: <a href='https://www.univ-amu.fr/en'>AMU</a> & <a href='https://www.lis-lab.fr/'>LIS</a>, Marseille, France
+      year: 2022-2025
+
     - title: Internship:&nbsp; Distributed Quantum Computation
-      institution: IST, Lisbon, Portugal
+      institution: <a href='https://tecnico.ulisboa.pt/en'>IST</a>, Lisbon, Portugal
       year: 2022
 
     - title: Internship:&nbsp; Quantum walk for searching algorithms
-      institution: Université Aix-Marseille, France
+      institution: <a href='https://www.univ-amu.fr/en'>AMU</a> & <a href='https://www.lis-lab.fr/'>LIS</a>, Marseille, France
       year: 2021
 
     - title: Internship:&nbsp; Quantum Machine Learning
-      institution: Université Aix-Marseille, France
+      institution: <a href='https://www.univ-amu.fr/en'>AMU</a> & <a href='https://www.lis-lab.fr/'>LIS</a>, Marseille, France
       year: 2021
 
     - title: Internship:&nbsp; aggregation score for temporal series' prevision
@@ -48,17 +56,17 @@
       description:
 
     - title: Internship :&nbsp; Quantum walk 
-      institution: Université Aix-Marseille, France
+      institution: <a href='https://www.univ-amu.fr/en'>AMU</a> & <a href='https://www.lis-lab.fr/'>LIS</a>, Marseille, France
       year: 2019
 
 - title: Academic Interests
   type: list
   contents:
     - Quantum computing
+    - Optimization
     - Machine learning
     - Distributed computing
     - Chaos theory
-    - Optimization
 
 - title: Programmation languages
   type: list
