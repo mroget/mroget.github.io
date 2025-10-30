@@ -1,3 +1,60 @@
+- title: Seahorse maths internships
+  type: map
+  year: 2024-2025
+  contents:
+    - name: Establishement
+      value: <a href='https://www.univ-amu.fr/en/public/seahorse-maths'>Aix-Marseille University & IREM Aix-Marseille</a>
+    - name: Location
+      value: Marseille, France
+    - name: Academic period
+      value: 2024-2025
+    - name: Targeted public
+      value: Secondary schoolers and hichscoolers.
+    - name: Modality
+      value: Supervision of two groups of 3-5 students.
+    - name: Duration
+      value: 3 days.
+    - name: Content
+      value: The idea is to offer the interns an experience close to actual research. The interns learn about some notions, decide on a problem, figure out things and present their finding to local researchers via a poster session.
+
+- title: Advanced use of Unix
+  type: map
+  year: 2024-2025
+  contents:
+    - name: Establishement
+      value: <a href='https://www.univ-amu.fr/en'>Aix-Marseille University</a>
+    - name: Location
+      value: Marseille, France
+    - name: Academic period
+      value: 2024-2025
+    - name: Targeted public
+      value: Second year undergraduated students in computer sciences
+    - name: Modality
+      value: Exercise and practical classes.
+    - name: Duration
+      value: Practical (TP) 14h
+    - name: Content
+      value: Undergraduated class on Unix. Includes basic Unix commands and advanced uses.
+
+- title: Inner working of computers
+  type: map
+  year: 2024-2025
+  contents:
+    - name: Establishement
+      value: <a href='https://www.univ-amu.fr/en'>Aix-Marseille University</a>
+    - name: Location
+      value: Marseille, France
+    - name: Academic period
+      value: 2024-2025
+    - name: Targeted public
+      value: First year undergraduated students in computer sciences
+    - name: Modality
+      value: Exercise and practical classes.
+    - name: Duration
+      value: 21h = Practical (TP) 12h and Exercises (TD) 9h
+    - name: Content
+      value: Undergraduated class on computers and how they work. Includes notions such as complexity logical circuits, sequential circuits and Unix basic commands.
+
 - title: Complexity
   type: map
   year: 2024-2025
